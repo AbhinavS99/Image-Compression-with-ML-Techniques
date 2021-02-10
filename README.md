@@ -15,16 +15,15 @@ There are two types of image compressions:
 
 ## Project Description
 This project explores three Machine Learning Techniques to compress images. These are as follows:
-1. Image Compression Using Principal Component Analysis [Notebook]().
-2. Image Compression Using K-Means Clustering [Notebook]().
-3. Image Compression Using Generative Adversarial Networks (GANs) [Notebook]().
+1. Image Compression Using Principal Component Analysis [Notebook](https://github.com/AbhinavS99/Image-Compression-with-ML-Techniques/blob/main/Image_Compression_PCA.ipynb).
+2. Image Compression Using K-Means Clustering [Notebook](https://github.com/AbhinavS99/Image-Compression-with-ML-Techniques/blob/main/Image_Compression_KMeans.ipynb).
+
 
 ---
 
 ## Outline
 1. [Image Compression Using PCA](#image-compression-using-pca)
 2. [Image Compression Using KMeans](#image-compression-using-kmeans)
-3. [Image Compression Using GANs](#image-compression-using-gans)
 
 ---
 
@@ -86,7 +85,7 @@ Metrics by Number of Principal Components|
 
 Image with increasing number of principal components|
 :----:|
-![](data/pca_image_number_components)|
+![](data/pca_image_number_components.png)|
 
 Comparision with the Original Image|
 :----:|
@@ -165,7 +164,7 @@ Metrics by Number of Principal Components|
 
 Image with increasing number of principal components|
 :----:|
-![](data/kmeans_image_number_components)|
+![](data/kmeans_image_number_components.png)|
 
 Comparision with the Original Image|
 :----:|
@@ -176,4 +175,3 @@ Comparision with the Original Image|
 |Reduction in Size|79.115%|
 |Explained Variance|95.916%|
 
-## Image Compression Using GANs
